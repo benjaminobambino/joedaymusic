@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/joedaymusic/static/css/main.f73c66a5.chunk.css",
+    "main.css": "/joedaymusic/static/css/main.ae4e5d1c.chunk.css",
     "main.js": "/joedaymusic/static/js/main.8eaee562.chunk.js",
     "main.js.map": "/joedaymusic/static/js/main.8eaee562.chunk.js.map",
     "runtime-main.js": "/joedaymusic/static/js/runtime-main.2b08725e.js",
@@ -10,14 +10,14 @@
     "static/js/3.97c98fb2.chunk.js": "/joedaymusic/static/js/3.97c98fb2.chunk.js",
     "static/js/3.97c98fb2.chunk.js.map": "/joedaymusic/static/js/3.97c98fb2.chunk.js.map",
     "index.html": "/joedaymusic/index.html",
-    "static/css/main.f73c66a5.chunk.css.map": "/joedaymusic/static/css/main.f73c66a5.chunk.css.map",
+    "static/css/main.ae4e5d1c.chunk.css.map": "/joedaymusic/static/css/main.ae4e5d1c.chunk.css.map",
     "static/js/2.3992d6d7.chunk.js.LICENSE.txt": "/joedaymusic/static/js/2.3992d6d7.chunk.js.LICENSE.txt",
     "static/media/index.css": "/joedaymusic/static/media/bg.4225d3d0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2b08725e.js",
     "static/js/2.3992d6d7.chunk.js",
-    "static/css/main.f73c66a5.chunk.css",
+    "static/css/main.ae4e5d1c.chunk.css",
     "static/js/main.8eaee562.chunk.js"
   ]
 }
