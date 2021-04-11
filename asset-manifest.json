@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/joedaymusic/static/css/main.ae4e5d1c.chunk.css",
-    "main.js": "/joedaymusic/static/js/main.8eaee562.chunk.js",
-    "main.js.map": "/joedaymusic/static/js/main.8eaee562.chunk.js.map",
-    "runtime-main.js": "/joedaymusic/static/js/runtime-main.2b08725e.js",
-    "runtime-main.js.map": "/joedaymusic/static/js/runtime-main.2b08725e.js.map",
-    "static/js/2.3992d6d7.chunk.js": "/joedaymusic/static/js/2.3992d6d7.chunk.js",
-    "static/js/2.3992d6d7.chunk.js.map": "/joedaymusic/static/js/2.3992d6d7.chunk.js.map",
-    "static/js/3.97c98fb2.chunk.js": "/joedaymusic/static/js/3.97c98fb2.chunk.js",
-    "static/js/3.97c98fb2.chunk.js.map": "/joedaymusic/static/js/3.97c98fb2.chunk.js.map",
+    "main.css": "/joedaymusic/static/css/main.7072bb0b.chunk.css",
+    "main.js": "/joedaymusic/static/js/main.7f4f087c.chunk.js",
+    "main.js.map": "/joedaymusic/static/js/main.7f4f087c.chunk.js.map",
+    "runtime-main.js": "/joedaymusic/static/js/runtime-main.9e5c00cf.js",
+    "runtime-main.js.map": "/joedaymusic/static/js/runtime-main.9e5c00cf.js.map",
+    "static/js/2.1f9af28a.chunk.js": "/joedaymusic/static/js/2.1f9af28a.chunk.js",
+    "static/js/2.1f9af28a.chunk.js.map": "/joedaymusic/static/js/2.1f9af28a.chunk.js.map",
+    "static/js/3.6abc77f5.chunk.js": "/joedaymusic/static/js/3.6abc77f5.chunk.js",
+    "static/js/3.6abc77f5.chunk.js.map": "/joedaymusic/static/js/3.6abc77f5.chunk.js.map",
     "index.html": "/joedaymusic/index.html",
-    "static/css/main.ae4e5d1c.chunk.css.map": "/joedaymusic/static/css/main.ae4e5d1c.chunk.css.map",
-    "static/js/2.3992d6d7.chunk.js.LICENSE.txt": "/joedaymusic/static/js/2.3992d6d7.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/joedaymusic/static/media/bg.4225d3d0.jpg"
+    "static/css/main.7072bb0b.chunk.css.map": "/joedaymusic/static/css/main.7072bb0b.chunk.css.map",
+    "static/js/2.1f9af28a.chunk.js.LICENSE.txt": "/joedaymusic/static/js/2.1f9af28a.chunk.js.LICENSE.txt",
+    "static/media/Apple_Music_Icon_wht_sm_073120.5ebdc174.svg": "/joedaymusic/static/media/Apple_Music_Icon_wht_sm_073120.5ebdc174.svg",
+    "static/media/index.css": "/joedaymusic/static/media/bg.4225d3d0.jpg",
+    "static/media/Spotify_logo_without_text_white.d6430e37.svg": "/joedaymusic/static/media/Spotify_logo_without_text_white.d6430e37.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b08725e.js",
-    "static/js/2.3992d6d7.chunk.js",
-    "static/css/main.ae4e5d1c.chunk.css",
-    "static/js/main.8eaee562.chunk.js"
+    "static/js/runtime-main.9e5c00cf.js",
+    "static/js/2.1f9af28a.chunk.js",
+    "static/css/main.7072bb0b.chunk.css",
+    "static/js/main.7f4f087c.chunk.js"
   ]
 }
