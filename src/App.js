@@ -11,16 +11,16 @@ function App() {
         <header className="site-header">Joe Day</header>
         
         <section className="site-headline">
-          <h1>All I Want Is Home Streaming Everywhere</h1>
+          <h1>Halflight is Streaming Everywhere</h1>
           <p className="divider">+ + +</p>
         </section>
         
         <section className="site-content">
-          <p>Listen to the first single from Joe’s upcoming full-length album Halflight out August 6th. </p>
+          <p>Listen to the second single from Joe’s upcoming full-length album Halflight out August 6th. </p>
           <a href="https://open.spotify.com/artist/7x1PLGWhJe9SsmZ8i4VGCE?si=yQl5fRWVS0G4I9uIUl1LRQ" rel="noreferrer" target="_blank">
-            <img className="responsive-image-small" src={img} alt="Album cover for the single All I Want Is Home by Joe Day" />
+            <img className="responsive-image-small" src={img} alt="Album cover for the single Halflight by Joe Day" />
           </a>
-          <p className="small">Be the first to know everything by joining the mailing list.</p>
+          <p>Be the first to know everything by joining the mailing list.</p>
           <div id="revue-embed" className="revue-email-form">
             <form action="https://www.getrevue.co/profile/joeday/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
               <input className="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email" />
@@ -31,7 +31,7 @@ function App() {
 
         <section className="site-sidebar">
         <a href="https://open.spotify.com/artist/7x1PLGWhJe9SsmZ8i4VGCE?si=yQl5fRWVS0G4I9uIUl1LRQ" rel="noreferrer" target="_blank">
-          <img className="responsive-image" src={img} alt="Album cover for the single All I Want Is Home by Joe Day" />
+          <img className="responsive-image" src={img} alt="Album cover for the single Halflight by Joe Day" />
         </a>
           
         </section>
