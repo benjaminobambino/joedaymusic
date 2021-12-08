@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.0217295e.chunk.css",
-    "main.js": "/static/js/main.9350f837.chunk.js",
-    "main.js.map": "/static/js/main.9350f837.chunk.js.map",
+    "main.js": "/static/js/main.ea8fe160.chunk.js",
+    "main.js.map": "/static/js/main.ea8fe160.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ef2468ef.js",
     "runtime-main.js.map": "/static/js/runtime-main.ef2468ef.js.map",
-    "static/js/2.aa085b47.chunk.js": "/static/js/2.aa085b47.chunk.js",
-    "static/js/2.aa085b47.chunk.js.map": "/static/js/2.aa085b47.chunk.js.map",
+    "static/js/2.8ac5f81e.chunk.js": "/static/js/2.8ac5f81e.chunk.js",
+    "static/js/2.8ac5f81e.chunk.js.map": "/static/js/2.8ac5f81e.chunk.js.map",
     "static/js/3.124e9b86.chunk.js": "/static/js/3.124e9b86.chunk.js",
     "static/js/3.124e9b86.chunk.js.map": "/static/js/3.124e9b86.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.0217295e.chunk.css.map": "/static/css/main.0217295e.chunk.css.map",
-    "static/js/2.aa085b47.chunk.js.LICENSE.txt": "/static/js/2.aa085b47.chunk.js.LICENSE.txt",
+    "static/js/2.8ac5f81e.chunk.js.LICENSE.txt": "/static/js/2.8ac5f81e.chunk.js.LICENSE.txt",
     "static/media/Apple_Music_Icon_black_sm_.5fcda20e.svg": "/static/media/Apple_Music_Icon_black_sm_.5fcda20e.svg",
     "static/media/Joe Day.f28d481d.svg": "/static/media/Joe Day.f28d481d.svg",
     "static/media/JoeDay-7535.ec6a94e0.jpg": "/static/media/JoeDay-7535.ec6a94e0.jpg",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ef2468ef.js",
-    "static/js/2.aa085b47.chunk.js",
+    "static/js/2.8ac5f81e.chunk.js",
     "static/css/main.0217295e.chunk.css",
-    "static/js/main.9350f837.chunk.js"
+    "static/js/main.ea8fe160.chunk.js"
   ]
 }
