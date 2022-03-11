@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6582b769.chunk.css",
-    "main.js": "/static/js/main.cb400c48.chunk.js",
-    "main.js.map": "/static/js/main.cb400c48.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1b4f2b68.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1b4f2b68.js.map",
-    "static/js/2.e29686b8.chunk.js": "/static/js/2.e29686b8.chunk.js",
-    "static/js/2.e29686b8.chunk.js.map": "/static/js/2.e29686b8.chunk.js.map",
-    "static/js/3.f924e9b4.chunk.js": "/static/js/3.f924e9b4.chunk.js",
-    "static/js/3.f924e9b4.chunk.js.map": "/static/js/3.f924e9b4.chunk.js.map",
+    "main.css": "/static/css/main.aafd82ff.chunk.css",
+    "main.js": "/static/js/main.edb4e697.chunk.js",
+    "main.js.map": "/static/js/main.edb4e697.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c7f199f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c7f199f6.js.map",
+    "static/js/2.fceb1140.chunk.js": "/static/js/2.fceb1140.chunk.js",
+    "static/js/2.fceb1140.chunk.js.map": "/static/js/2.fceb1140.chunk.js.map",
+    "static/js/3.18629b3f.chunk.js": "/static/js/3.18629b3f.chunk.js",
+    "static/js/3.18629b3f.chunk.js.map": "/static/js/3.18629b3f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6582b769.chunk.css.map": "/static/css/main.6582b769.chunk.css.map",
-    "static/js/2.e29686b8.chunk.js.LICENSE.txt": "/static/js/2.e29686b8.chunk.js.LICENSE.txt",
+    "static/css/main.aafd82ff.chunk.css.map": "/static/css/main.aafd82ff.chunk.css.map",
+    "static/js/2.fceb1140.chunk.js.LICENSE.txt": "/static/js/2.fceb1140.chunk.js.LICENSE.txt",
     "static/media/Apple_Music_Icon_black_sm_.5fcda20e.svg": "/static/media/Apple_Music_Icon_black_sm_.5fcda20e.svg",
     "static/media/Joe Day.f28d481d.svg": "/static/media/Joe Day.f28d481d.svg",
     "static/media/JoeDay-7535.ec6a94e0.jpg": "/static/media/JoeDay-7535.ec6a94e0.jpg",
@@ -24,9 +24,9 @@
     "static/media/love_and_fear.c1dd1068.svg": "/static/media/love_and_fear.c1dd1068.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b4f2b68.js",
-    "static/js/2.e29686b8.chunk.js",
-    "static/css/main.6582b769.chunk.css",
-    "static/js/main.cb400c48.chunk.js"
+    "static/js/runtime-main.c7f199f6.js",
+    "static/js/2.fceb1140.chunk.js",
+    "static/css/main.aafd82ff.chunk.css",
+    "static/js/main.edb4e697.chunk.js"
   ]
 }
