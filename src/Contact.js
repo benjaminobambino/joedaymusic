@@ -3,11 +3,17 @@ import Mailchimp from 'react-mailchimp-form';
 import './Contact.css';
 
 const Bio = () => {
-  return ( 
+  return (
     <article className="contact-grid">
       <h1 className="article-title">Email is where it's at</h1>
       <section className="section body-copy">
-        <p>Want to go deeper? I send out an email every 3-4 weeks. The emails can be anything from song stories to poems to playlists. But at the heart of the emails is the invitation to 2-way communication. I genuinely enjoy hearing from you and respond to every email that comes in. So, join the email list and let's talk.</p>
+        <p>
+          Want to go deeper? I send out an email every 3-4 weeks. The emails can
+          be anything from song stories to poems to playlists. But at the heart
+          of the emails is the invitation to 2-way communication. I genuinely
+          enjoy hearing from you and respond to every email that comes in. So,
+          join the email list and let's talk.
+        </p>
         <Mailchimp
           action={process.env.REACT_APP_MAILCHIMP_KEY}
           fields={[
@@ -36,26 +42,34 @@ const Bio = () => {
               required: false
             }
           ]}
-          messages = {
-            {
-              sending: "Sending...",
-              success: "Thank you for subscribing!",
-              error: "An unexpected internal error has occurred.",
-              empty: "You must write an e-mail.",
-              duplicate: "Too many subscribe attempts for this email address",
-              button: "Subscribe"
-            }
-          }
+          messages={{
+            sending: 'Sending...',
+            success: 'Thank you for subscribing!',
+            error: 'An unexpected internal error has occurred.',
+            empty: 'You must write an e-mail.',
+            duplicate: 'Too many subscribe attempts for this email address',
+            button: 'Subscribe'
+          }}
           className="email-form"
         />
         <div className="other-emails">
           <h2 className="contact-info">Contact info</h2>
-          <p>Management: <a className="email-link" href="mailto:management@joedaymusic.com">management@joedaymusic.com</a></p>
-          <p>Booking: <a className="email-link" href="mailto:booking@joedaymusic.com">booking@joedaymusic.com</a></p>
+          <p>
+            Management:{' '}
+            <a className="email-link" href="mailto:management@joedaymusic.com">
+              management@joedaymusic.com
+            </a>
+          </p>
+          <p>
+            Booking:{' '}
+            <a className="email-link" href="mailto:booking@joedaymusic.com">
+              booking@joedaymusic.com
+            </a>
+          </p>
         </div>
       </section>
     </article>
-   );
-}
- 
+  );
+};
+
 export default Bio;
